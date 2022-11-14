@@ -5,3 +5,17 @@
 .navbar-nav {
     margin-right: 30px;
 }
+
+body {
+    background-color: lightblue;
+}
+
+#index-about {
+    background-color: lavender;
+}
+
+h1, h3 {
+    margin: 20px;
+    text-align: center;
+    color: darkblue;
+}
