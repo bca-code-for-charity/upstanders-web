@@ -8,3 +8,14 @@ app = Flask(__name__)
 @app.route('/')
 def hello_world():
     return render_template("index.html")
+
+@app.route('/calendar')
+def calendar():
+    return render_template("calendar.html")
+
+@app.route('/be_a_friend')
+def be_a_friend():
+    return render_template("be_a_friend.html")
+
+if __name__ == '__main__':
+    app.run(host='0.0.0.0')
