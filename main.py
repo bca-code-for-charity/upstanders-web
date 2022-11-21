@@ -8,3 +8,7 @@ app = Flask(__name__)
 @app.route('/')
 def hello_world():
     return render_template("index.html")
+
+@app.route('/calendar')
+def calendar():
+    return render_template("calendar.html")
