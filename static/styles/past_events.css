@@ -1,417 +1,417 @@
-	.mediaViewInfo {
-		--web-view-name: Web 1920 – 2;
-		--web-view-id: Web_1920__2;
-		--web-scale-on-resize: true;
-		--web-enable-deep-linking: true;
-	}
-	:root {
-		--web-view-ids: Web_1920__2;
-	}
-	* {
-		margin: 0;
-		padding: 0;
-		box-sizing: border-box;
-		border: none;
-	}
-	#Web_1920__2 {
-		position: absolute;
-		width: 1920px;
-		height: 4516px;
-		background-color: rgba(182,159,242,1);
-		overflow: hidden;
-		--web-view-name: Web 1920 – 2;
-		--web-view-id: Web_1920__2;
-		--web-scale-on-resize: true;
-		--web-enable-deep-linking: true;
-	}
-	#upstanders_bckgrnd_n {
-		position: absolute;
-		width: 1920px;
-		height: 1080px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Path_12 {
-		fill: transparent;
-		stroke: rgba(112,112,112,1);
-		stroke-width: 1px;
-		stroke-linejoin: miter;
-		stroke-linecap: butt;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Path_12 {
-		overflow: visible;
-		position: absolute;
-		width: 1px;
-		height: 1px;
-		left: 0px;
-		top: 1988.672px;
-		transform: matrix(1,0,0,1,0,0);
-	}
-	#upstanders_bckgrnd_n {
-		position: absolute;
-		width: 1920px;
-		height: 1080px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#History_of_Club__Events {
-		left: 388px;
-		top: 432px;
-		position: absolute;
-		overflow: visible;
-		width: 1145px;
-		white-space: nowrap;
-		text-align: center;
-		font-family: Filson Soft;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 150px;
-		color: rgba(255,255,255,1);
-	}
-	#Group_1 {
-		position: absolute;
-		width: 1920px;
-		height: 1080px;
-		left: 0px;
-		top: 0px;
-		display: none;
-		overflow: visible;
-	}
-	#upstanders_bckgrnd_q {
-		position: absolute;
-		width: 1920px;
-		height: 1080px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Path_15 {
-		fill: rgba(255,255,255,1);
-	}
-	.Path_15 {
-		overflow: visible;
-		position: absolute;
-		width: 1925.599px;
-		height: 1002.855px;
-		left: -2.799px;
-		top: 903.006px;
-		transform: matrix(1,0,0,1,0,0);
-	}
-	#Path_16 {
-		fill: rgba(193,205,249,1);
-	}
-	.Path_16 {
-		overflow: visible;
-		position: absolute;
-		width: 1925.599px;
-		height: 1002.854px;
-		left: 0px;
-		top: 1748.433px;
-		transform: matrix(1,0,0,1,0,0);
-	}
-	#Path_17 {
-		fill: rgba(188,182,246,1);
-	}
-	.Path_17 {
-		overflow: visible;
-		position: absolute;
-		width: 1925.599px;
-		height: 1002.854px;
-		left: 0px;
-		top: 2639.678px;
-		transform: matrix(1,0,0,1,0,0);
-	}
-	#Path_18 {
-		fill: rgba(182,159,242,1);
-	}
-	.Path_18 {
-		overflow: visible;
-		position: absolute;
-		width: 1925.599px;
-		height: 933.573px;
-		left: 0px;
-		top: 3517.433px;
-		transform: matrix(1,0,0,1,0,0);
-	}
-	#event_1 {
-		left: 169px;
-		top: 1080px;
-		position: absolute;
-		overflow: visible;
-		width: 435px;
-		white-space: nowrap;
-		line-height: 240px;
-		margin-top: -70px;
-		text-align: center;
-		font-family: Filson Soft;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 100px;
-		color: rgba(96,113,215,1);
-	}
-	#Lorem_ipsum_dolor_sit_amet_con {
-		left: 169px;
-		top: 1249px;
-		position: absolute;
-		overflow: visible;
-		width: 701px;
-		height: 402px;
-		text-align: left;
-		font-family: Filson Soft;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 49px;
-		color: rgba(107,140,230,1);
-	}
-	#Rectangle_7 {
-		fill: rgba(188,182,246,1);
-	}
-	.Rectangle_7 {
-		position: absolute;
-		overflow: visible;
-		width: 709px;
-		height: 473px;
-		left: 1043px;
-		top: 1140px;
-	}
-	#event_3 {
-		left: 169px;
-		top: 2849px;
-		position: absolute;
-		overflow: visible;
-		width: 455px;
-		white-space: nowrap;
-		line-height: 240px;
-		margin-top: -70px;
-		text-align: center;
-		font-family: Filson Soft;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 100px;
-		color: rgba(96,113,215,1);
-	}
-	#Lorem_ipsum_dolor_sit_amet_con_z {
-		left: 169px;
-		top: 3018px;
-		position: absolute;
-		overflow: visible;
-		width: 701px;
-		height: 402px;
-		text-align: left;
-		font-family: Filson Soft;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 49px;
-		color: rgba(255,255,255,1);
-	}
-	#Rectangle_8 {
-		fill: rgba(255,255,255,1);
-	}
-	.Rectangle_8 {
-		position: absolute;
-		overflow: visible;
-		width: 709px;
-		height: 473px;
-		left: 1047px;
-		top: 2905px;
-	}
-	#Rectangle_10 {
-		fill: rgba(255,255,255,1);
-	}
-	.Rectangle_10 {
-		position: absolute;
-		overflow: visible;
-		width: 709px;
-		height: 473px;
-		left: 169px;
-		top: 2024px;
-	}
-	#event_2 {
-		left: 1293px;
-		top: 1964px;
-		position: absolute;
-		overflow: visible;
-		width: 455px;
-		white-space: nowrap;
-		line-height: 240px;
-		margin-top: -70px;
-		text-align: right;
-		font-family: Filson Soft;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 100px;
-		color: rgba(96,113,215,1);
-	}
-	#Lorem_ipsum_dolor_sit_amet_con_ {
-		left: 1047px;
-		top: 2133px;
-		position: absolute;
-		overflow: visible;
-		width: 701px;
-		height: 402px;
-		text-align: left;
-		font-family: Filson Soft;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 49px;
-		color: rgba(255,255,255,1);
-	}
-	#Rectangle_11 {
-		fill: rgba(255,255,255,1);
-	}
-	.Rectangle_11 {
-		position: absolute;
-		overflow: visible;
-		width: 709px;
-		height: 473px;
-		left: 169px;
-		top: 3810px;
-	}
-	#event_4 {
-		left: 1287px;
-		top: 3750px;
-		position: absolute;
-		overflow: visible;
-		width: 461px;
-		white-space: nowrap;
-		line-height: 240px;
-		margin-top: -70px;
-		text-align: right;
-		font-family: Filson Soft;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 100px;
-		color: rgba(96,113,215,1);
-	}
-	#Lorem_ipsum_dolor_sit_amet_con_ba {
-		left: 1047px;
-		top: 3919px;
-		position: absolute;
-		overflow: visible;
-		width: 701px;
-		height: 402px;
-		text-align: left;
-		font-family: Filson Soft;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 49px;
-		color: rgba(255,255,255,1);
-	}
-	#Line_1 {
-		fill: transparent;
-		stroke: rgba(255,255,255,1);
-		stroke-width: 6px;
-		stroke-linejoin: miter;
-		stroke-linecap: butt;
-		stroke-miterlimit: 4;
-		shape-rendering: auto;
-	}
-	.Line_1 {
-		overflow: visible;
-		position: absolute;
-		width: 1923px;
-		height: 6px;
-		left: -2.5px;
-		top: 155.5px;
-		transform: matrix(1,0,0,1,0,0);
-	}
-	#Repeat_Grid_1 {
-		position: absolute;
-		width: 1709px;
-		height: 60px;
-		left: 106px;
-		top: 52px;
-		overflow: hidden;
-	}
-	#Group {
-		position: absolute;
-		width: 1716px;
-		height: 60px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Home {
-		left: 0px;
-		top: 1px;
-		position: absolute;
-		overflow: visible;
-		width: 143px;
-		white-space: nowrap;
-		line-height: 80px;
-		margin-top: -15.5px;
-		text-align: left;
-		font-family: Filson Soft;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 49px;
-		color: rgba(255,255,255,1);
-	}
-	#Events {
-		left: 238px;
-		top: 1px;
-		position: absolute;
-		overflow: visible;
-		width: 167px;
-		white-space: nowrap;
-		line-height: 80px;
-		margin-top: -15.5px;
-		text-align: left;
-		font-family: Filson Soft;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 49px;
-		color: rgba(255,255,255,1);
-	}
-	#Calendar {
-		left: 505px;
-		top: 1px;
-		position: absolute;
-		overflow: visible;
-		width: 228px;
-		white-space: nowrap;
-		line-height: 80px;
-		margin-top: -15.5px;
-		text-align: left;
-		font-family: Filson Soft;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 49px;
-		color: rgba(255,255,255,1);
-	}
-	#Interest_Form {
-		left: 826px;
-		top: 0px;
-		position: absolute;
-		overflow: visible;
-		width: 333px;
-		white-space: nowrap;
-		line-height: 80px;
-		margin-top: -15.5px;
-		text-align: left;
-		font-family: Filson Soft;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 49px;
-		color: rgba(255,255,255,1);
-	}
-	#Be_a_Friend_Project {
-		left: 1249px;
-		top: 0px;
-		position: absolute;
-		overflow: visible;
-		width: 468px;
-		white-space: nowrap;
-		line-height: 80px;
-		margin-top: -15.5px;
-		text-align: left;
-		font-family: Filson Soft;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 49px;
-		color: rgba(255,255,255,1);
-	}
+.mediaViewInfo {
+  --web-view-name: Web 1920 – 2;
+  --web-view-id: Web_1920__2;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+:root {
+  --web-view-ids: Web_1920__2;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+#Web_1920__2 {
+  position: absolute;
+  width: 1920px;
+  height: 4516px;
+  background-color: rgba(182, 159, 242, 1);
+  overflow: hidden;
+  --web-view-name: Web 1920 – 2;
+  --web-view-id: Web_1920__2;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+#upstanders_bckgrnd_n {
+  position: absolute;
+  width: 1920px;
+  height: 1080px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#Path_12 {
+  fill: transparent;
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Path_12 {
+  overflow: visible;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  left: 0px;
+  top: 1988.672px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#upstanders_bckgrnd_n {
+  position: absolute;
+  width: 1920px;
+  height: 1080px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#History_of_Club__Events {
+  left: 388px;
+  top: 300px;
+  position: absolute;
+  overflow: visible;
+  width: 1145px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Filson Soft;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 150px;
+  color: rgba(255, 255, 255, 1);
+}
+#Group_1 {
+  position: absolute;
+  width: 1920px;
+  height: 1080px;
+  left: 0px;
+  top: 0px;
+  display: none;
+  overflow: visible;
+}
+#upstanders_bckgrnd_q {
+  position: absolute;
+  width: 1920px;
+  height: 1080px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#Path_15 {
+  fill: rgba(255, 255, 255, 1);
+}
+.Path_15 {
+  overflow: visible;
+  position: absolute;
+  width: 1925.599px;
+  height: 1002.855px;
+  left: -2.799px;
+  top: 903.006px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Path_16 {
+  fill: rgba(193, 205, 249, 1);
+}
+.Path_16 {
+  overflow: visible;
+  position: absolute;
+  width: 1925.599px;
+  height: 1002.854px;
+  left: 0px;
+  top: 1748.433px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Path_17 {
+  fill: rgba(188, 182, 246, 1);
+}
+.Path_17 {
+  overflow: visible;
+  position: absolute;
+  width: 1925.599px;
+  height: 1002.854px;
+  left: 0px;
+  top: 2639.678px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Path_18 {
+  fill: rgba(182, 159, 242, 1);
+}
+.Path_18 {
+  overflow: visible;
+  position: absolute;
+  width: 1925.599px;
+  height: 933.573px;
+  left: 0px;
+  top: 3517.433px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#event_1 {
+  left: 169px;
+  top: 1080px;
+  position: absolute;
+  overflow: visible;
+  width: 435px;
+  white-space: nowrap;
+  line-height: 240px;
+  margin-top: -70px;
+  text-align: center;
+  font-family: Filson Soft;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 100px;
+  color: rgba(96, 113, 215, 1);
+}
+#Lorem_ipsum_dolor_sit_amet_con {
+  left: 169px;
+  top: 1249px;
+  position: absolute;
+  overflow: visible;
+  width: 701px;
+  height: 402px;
+  text-align: left;
+  font-family: Filson Soft;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 49px;
+  color: rgba(107, 140, 230, 1);
+}
+#Rectangle_7 {
+  fill: rgba(188, 182, 246, 1);
+}
+.Rectangle_7 {
+  position: absolute;
+  overflow: visible;
+  width: 709px;
+  height: 473px;
+  left: 1043px;
+  top: 1140px;
+}
+#event_3 {
+  left: 169px;
+  top: 2849px;
+  position: absolute;
+  overflow: visible;
+  width: 455px;
+  white-space: nowrap;
+  line-height: 240px;
+  margin-top: -70px;
+  text-align: center;
+  font-family: Filson Soft;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 100px;
+  color: rgba(96, 113, 215, 1);
+}
+#Lorem_ipsum_dolor_sit_amet_con_z {
+  left: 169px;
+  top: 3018px;
+  position: absolute;
+  overflow: visible;
+  width: 701px;
+  height: 402px;
+  text-align: left;
+  font-family: Filson Soft;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 49px;
+  color: rgba(255, 255, 255, 1);
+}
+#Rectangle_8 {
+  fill: rgba(255, 255, 255, 1);
+}
+.Rectangle_8 {
+  position: absolute;
+  overflow: visible;
+  width: 709px;
+  height: 473px;
+  left: 1047px;
+  top: 2905px;
+}
+#Rectangle_10 {
+  fill: rgba(255, 255, 255, 1);
+}
+.Rectangle_10 {
+  position: absolute;
+  overflow: visible;
+  width: 709px;
+  height: 473px;
+  left: 169px;
+  top: 2024px;
+}
+#event_2 {
+  left: 1293px;
+  top: 1964px;
+  position: absolute;
+  overflow: visible;
+  width: 455px;
+  white-space: nowrap;
+  line-height: 240px;
+  margin-top: -70px;
+  text-align: right;
+  font-family: Filson Soft;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 100px;
+  color: rgba(96, 113, 215, 1);
+}
+#Lorem_ipsum_dolor_sit_amet_con_ {
+  left: 1047px;
+  top: 2133px;
+  position: absolute;
+  overflow: visible;
+  width: 701px;
+  height: 402px;
+  text-align: left;
+  font-family: Filson Soft;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 49px;
+  color: rgba(255, 255, 255, 1);
+}
+#Rectangle_11 {
+  fill: rgba(255, 255, 255, 1);
+}
+.Rectangle_11 {
+  position: absolute;
+  overflow: visible;
+  width: 709px;
+  height: 473px;
+  left: 169px;
+  top: 3810px;
+}
+#event_4 {
+  left: 1287px;
+  top: 3750px;
+  position: absolute;
+  overflow: visible;
+  width: 461px;
+  white-space: nowrap;
+  line-height: 240px;
+  margin-top: -70px;
+  text-align: right;
+  font-family: Filson Soft;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 100px;
+  color: rgba(96, 113, 215, 1);
+}
+#Lorem_ipsum_dolor_sit_amet_con_ba {
+  left: 1047px;
+  top: 3919px;
+  position: absolute;
+  overflow: visible;
+  width: 701px;
+  height: 402px;
+  text-align: left;
+  font-family: Filson Soft;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 49px;
+  color: rgba(255, 255, 255, 1);
+}
+#Line_1 {
+  fill: transparent;
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 6px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Line_1 {
+  overflow: visible;
+  position: absolute;
+  width: 1923px;
+  height: 6px;
+  left: -2.5px;
+  top: 155.5px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Repeat_Grid_1 {
+  position: absolute;
+  width: 1709px;
+  height: 60px;
+  left: 106px;
+  top: 52px;
+  overflow: hidden;
+}
+#Group {
+  position: absolute;
+  width: 1716px;
+  height: 60px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#Home {
+  left: 0px;
+  top: 1px;
+  position: absolute;
+  overflow: visible;
+  width: 143px;
+  white-space: nowrap;
+  line-height: 80px;
+  margin-top: -15.5px;
+  text-align: left;
+  font-family: Filson Soft;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 49px;
+  color: rgba(255, 255, 255, 1);
+}
+#Events {
+  left: 238px;
+  top: 1px;
+  position: absolute;
+  overflow: visible;
+  width: 167px;
+  white-space: nowrap;
+  line-height: 80px;
+  margin-top: -15.5px;
+  text-align: left;
+  font-family: Filson Soft;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 49px;
+  color: rgba(255, 255, 255, 1);
+}
+#Calendar {
+  left: 505px;
+  top: 1px;
+  position: absolute;
+  overflow: visible;
+  width: 228px;
+  white-space: nowrap;
+  line-height: 80px;
+  margin-top: -15.5px;
+  text-align: left;
+  font-family: Filson Soft;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 49px;
+  color: rgba(255, 255, 255, 1);
+}
+#Interest_Form {
+  left: 826px;
+  top: 0px;
+  position: absolute;
+  overflow: visible;
+  width: 333px;
+  white-space: nowrap;
+  line-height: 80px;
+  margin-top: -15.5px;
+  text-align: left;
+  font-family: Filson Soft;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 49px;
+  color: rgba(255, 255, 255, 1);
+}
+#Be_a_Friend_Project {
+  left: 1249px;
+  top: 0px;
+  position: absolute;
+  overflow: visible;
+  width: 468px;
+  white-space: nowrap;
+  line-height: 80px;
+  margin-top: -15.5px;
+  text-align: left;
+  font-family: Filson Soft;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 49px;
+  color: rgba(255, 255, 255, 1);
+}
