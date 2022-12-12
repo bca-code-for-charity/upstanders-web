@@ -2,50 +2,82 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Upstanders Club</title>
     <link rel="stylesheet" href="https://use.typekit.net/uqe5gtd.css" />
     <style>
-     h1 {
-        vertical-align: middle;
-        font-size: 75px;
+      html {
+        margin: 0;
+        font-weight: 900;
+        overflow: hidden;
         font-family: filson-soft, sans-serif;
+      }
+      body {
+        width: 100%;
+        margin: 0;
+      }
+      h1 {
+        margin: 0;
+        position: relative;
+        top: 150px;
+        text-align: center;
+        font-size: 75px;
         font-weight: 500;
         font-style: normal;
         color: white;
-        position:relative; 
-        left:480px; top:120px;
       }
-      #h2 {
+      h2 {
         color: #6b8ce6;
         font-size: 50px;
-        font-family: filson-soft, sans-serif;
         font-weight: 500;
         font-style: normal;
-        text-align: left;
-        position: relative;
-        top: 200px;
+        text-align: center;
       }
       #headerarea {
         width: 100%;
-        height: 350px;
+        height: 500px;
         background-image: url("/static/styles/background_image.png");
-        background-repeat: repeat-x;
-        background-size: 300% auto;
+        background-size: 150% auto;
         margin: 0;
         padding: 0%;
+        overflow-x: hidden;
       }
-
+      #change {
+        position: absolute;
+        top: 365px;
+        height: 140px;
+        width: 4000px;
+        background-size: 100%;
+        background-repeat: repeat-x;
+        background-image: url("/static/styles/wave_image.png");
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden;
+      }
+      a {
+        margin-left: 20px;
+        margin-right: 20px;
+        color: #6b8ce6;
+        text-decoration: none;
+      }
+      em {
+        text-decoration: underline;
+        font-style: normal;
+      }
     </style>
   </head>
   <body>
-    <div id="headerarea" >
+    <div id="headerarea">
       <h1>Be a Friend</h1>
+      <div id="change"></div>
     </div>
     <div id="information">
-      <h2></h2>
-      <a id = "h2" href="https://www.calendar.google.com">We are paired with Be a Friend Project to send monthly letters of support to victims of severe bullying. More information is available on <u>their website</u>: beafriendproject.org</a>
+      <h2>
+        <a id="h2" href="https://beafriendproject.org"
+          >We are paired with Be a Friend Project to send monthly letters of support to victims of severe bullying. More information is available on <em>their website</em>: beafriendproject.org</a
+        >
+      </h2>
     </div>
   </body>
 </html>
