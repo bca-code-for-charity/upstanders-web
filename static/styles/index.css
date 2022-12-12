@@ -17,5 +17,16 @@ body {
 h1, h3 {
     margin: 20px;
     text-align: center;
-    color: darkblue;
+}
+
+#header-h1, #header-h3 {
+    color: #A2BAF3;
+}
+
+#about-h1, #about-h3 {
+    color: #ffffff;
+}
+
+h1 {
+    font-size: 150px;
 }
