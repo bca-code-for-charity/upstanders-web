@@ -2,54 +2,58 @@
 <html>
     <head>
         <title>Upstanders</title>
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-        <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/index.css') }}">
+        <link
+            href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+            rel="stylesheet"
+            integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+            crossorigin="anonymous"
+        />
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='styles/index.css') }}" />
         <style>
             /** CSS using pseudo-elements: **/
 
-        #top {
-        background: #ffffff;
-        }
+            #top {
+                background: #ffffff;
+            }
 
-        #bottom {
-        background: #A2BAF3;
-        }
+            #bottom {
+                background: #a2baf3;
+            }
 
-        #top::after {
-        content: "";
-        position: relative;
-        left: -3rem;
-        /* padding * -1 */
-        top: calc( 3rem - 4rem / 2);
-        /* padding - height/2 */
-        float: left;
-        display: block;
-        height: 4rem;
-        width: 100vw;
-        background: hsla(0, 0%, 100%, 0.5);
-        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 70 500 60' preserveAspectRatio='none'%3E%3Crect x='0' y='0' width='500' height='500' style='stroke: none; fill: %23A2BAF3;' /%3E%3Cpath d='M0,100 C150,200 350,0 500,100 L500,00 L0,0 Z' style='stroke: none; fill: %23ffffff;'%3E%3C/path%3E%3C/svg%3E");
-        background-size: 100% 100%;
-        }
+            #top::after {
+                content: "";
+                position: relative;
+                left: -3rem;
+                /* padding * -1 */
+                top: calc(3rem - 4rem / 2);
+                /* padding - height/2 */
+                float: left;
+                display: block;
+                height: 4rem;
+                width: 100vw;
+                background: hsla(0, 0%, 100%, 0.5);
+                background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 70 500 60' preserveAspectRatio='none'%3E%3Crect x='0' y='0' width='500' height='500' style='stroke: none; fill: %23A2BAF3;' /%3E%3Cpath d='M0,100 C150,200 350,0 500,100 L500,00 L0,0 Z' style='stroke: none; fill: %23ffffff;'%3E%3C/path%3E%3C/svg%3E");
+                background-size: 100% 100%;
+            }
 
+            /** Cosmetics **/
 
-        /** Cosmetics **/
+            * {
+                margin: 0;
+            }
 
-        * {
-        margin: 0;
-        }
+            #top,
+            #bottom {
+                padding: 3rem;
+            }
 
-        #top,
-        #bottom {
-        padding: 3rem;
-        }
+            div {
+                line-height: 1.2;
+            }
 
-        div {
-        line-height: 1.2;
-        }
-
-        #top {
-        color: white;
-        }
+            #top {
+                color: white;
+            }
         </style>
     </head>
 
@@ -77,26 +81,24 @@
                 </li>
             </ul>
         </nav>
-        <div id="index-heading">
+        <div id="index-heading"></div>
 
-        </div>
+        <div id="index-about"></div>
 
-        <div id="index-about">
-
-        </div>
-
-        <div id="top" style="padding-top: 150px;">
+        <div id="top" style="padding-top: 150px">
             <h1 id="header-h1">Upstanders Club</h1>
             <h3 id="header-h3">@ Bergen County Academies</h3>
         </div>
-        
+
         <div id="bottom" class="wavy">
             <h1 id="about-h1">About</h1>
             <h3 id="about-h3">Lorem Ipsum</h3>
         </div>
 
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-
+        <script
+            src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+            crossorigin="anonymous"
+        ></script>
     </body>
-
 </html>
