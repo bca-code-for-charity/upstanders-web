@@ -14,16 +14,19 @@ body {
     background-color: lavender;
 }
 
-h1, h3 {
+h1,
+h3 {
     margin: 20px;
     text-align: center;
 }
 
-#header-h1, #header-h3 {
-    color: #A2BAF3;
+#header-h1,
+#header-h3 {
+    color: #a2baf3;
 }
 
-#about-h1, #about-h3 {
+#about-h1,
+#about-h3 {
     color: #ffffff;
 }
 
