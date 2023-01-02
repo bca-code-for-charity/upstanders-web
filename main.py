@@ -21,5 +21,13 @@ def be_a_friend():
 def past_events():
     return render_template("past_events.html")
 
+@app.route('/interest_form')
+def interest_form():
+    return render_template("interest_form.html")
+
+@app.route('/upcoming_events')
+def upcoming_events():
+    return render_template("upcoming_events.html")
+
 if __name__ == '__main__':
     app.run(host='0.0.0.0')
