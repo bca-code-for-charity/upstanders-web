@@ -415,14 +415,3 @@
     font-size: 49px;
     color: rgba(255, 255, 255, 1);
 }
-
-@media (max-width: 1000px) {
-    html {
-        zoom: 0.79;
-    }
-}
-@media (min-width: 1000px) {
-    html {
-        zoom: 1;
-    }
-}
