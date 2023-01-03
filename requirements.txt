@@ -1,4 +1,0 @@
-# for app routing and backend server hosting
-flask
-# for code formatting
-autopep8
