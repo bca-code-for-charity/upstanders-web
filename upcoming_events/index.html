@@ -1,9 +1,9 @@
+<!-- TODO this page and past events page have inconsistent styling with the rest of the website -->
 <!DOCTYPE html>
 <html lang="en">
     <body>
         <head>
-            <link rel="stylesheet" href="../static/styles/past_events.css" />
-
+            <link rel="stylesheet" href="../static/styles/upcoming_events.css" />
             <!-- Latest compiled and minified CSS -->
             <link
                 rel="stylesheet"
@@ -11,7 +11,6 @@
                 integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
                 crossorigin="anonymous"
             />
-
             <!-- Optional theme -->
             <link
                 rel="stylesheet"
@@ -19,33 +18,13 @@
                 integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp"
                 crossorigin="anonymous"
             />
-            <style>
-                @media (max-width: 1000px) {
-                    html {
-                        zoom: 0.79;
-                    }
-                }
-                @media (min-width: 1000px) {
-                    html {
-                        zoom: 1;
-                    }
-                }
-            </style>
         </head>
         <div id="Web_1920__2">
             <svg class="Path_12" viewBox="0 1616.672 1 1">
                 <path id="Path_12" d="M 0 1616.672485351562"></path>
             </svg>
-
             <div id="History_of_Club__Events">
                 <span>Upcoming Club <br />Events</span>
-            </div>
-            <div id="Group_1">
-                <img
-                    id="upstanders_bckgrnd_q"
-                    src="upstanders_bckgrnd_q.png"
-                    srcset="upstanders_bckgrnd_q.png 1x, upstanders_bckgrnd_q@2x.png 2x"
-                />
             </div>
             <svg class="Path_15" viewBox="2900 454.006 1925.599 1002.855">
                 <path
@@ -125,7 +104,7 @@
             <div id="Repeat_Grid_1">
                 <div id="Group" class="">
                     <div id="Home">
-                        <a href="/" style="color: white">
+                        <a href="../" style="color: white">
                             <span>Home</span>
                         </a>
                     </div>
@@ -136,18 +115,18 @@
                             style="background: rgba(182, 159, 242, 1); appearance: none"
                             onChange="window.location.href=this.value"
                         >
-                            <option value="/upcoming_events">Events</option>
-                            <option value="/past_events">Past Events</option>
+                            <option value="./">Events</option>
+                            <option value="../past_events">Past Events</option>
                         </select>
                     </div>
                     <div id="Calendar">
-                        <a href="/calendar" style="color: white"><span>Calendar</span></a>
+                        <a href="../calendar" style="color: white"><span>Calendar</span></a>
                     </div>
                     <div id="Interest_Form">
-                        <a href="/interest_form" style="color: white"><span>Interest Form</span></a>
+                        <a href="../interest_form" style="color: white"><span>Interest Form</span></a>
                     </div>
                     <div id="Be_a_Friend_Project">
-                        <a href="/be_a_friend" style="color: white"><span>Be a Friend Project</span></a>
+                        <a href="../be_a_friend" style="color: white"><span>Be a Friend Project</span></a>
                     </div>
                 </div>
             </div>
