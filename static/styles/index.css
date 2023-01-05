@@ -1,13 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@500;600;700&display=swap");
 
-.navbar-brand {
-    margin-left: 30px;
-}
-
-.navbar-nav {
-    margin-right: 30px;
-}
-
 body {
     background-color: lightblue;
 }
@@ -103,20 +95,6 @@ div {
     background: hsla(0, 0%, 100%, 0.5);
     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 70 500 60' preserveAspectRatio='none'%3E%3Crect x='0' y='0' width='500' height='500' style='stroke: none; fill: %2392a0ec;' /%3E%3Cpath d='M0,100 C150,200 350,0 500,100 L500,00 L0,0 Z' style='stroke: none; fill: %23A2BAF3;'%3E%3C/path%3E%3C/svg%3E");
     background-size: 100% 100%;
-}
-
-nav a {
-    color: #92a0ec !important;
-    font-size: 30px !important;
-}
-
-.navbar-nav {
-    margin-left: 5% !important;
-    margin-right: 5% !important;
-}
-
-nav {
-    border-bottom: 2px solid #92a0ec !important;
 }
 
 body {
