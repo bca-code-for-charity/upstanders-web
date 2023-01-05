@@ -1,0 +1,101 @@
+.grid {
+    display: grid;
+    grid-template-columns: 1fr;
+
+}
+
+.Header {
+    background-color: #b69ff2;
+    min-height: 500px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-image: url("../images/wave_background_img.png");
+    background-size: cover;
+}
+
+.Header h1 {
+    color: white;
+    font-size: 6em;
+}
+
+.waveImg {
+    position: absolute;
+    top: 100px;
+    overflow: hidden;
+    width: 99vw;
+}
+
+.e1, .e2, .e3 {
+    min-height: 600px;
+}
+
+
+.event {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.text {
+    margin: 10% 0;
+}
+
+.text h1 {
+    font-size: 3.5em;
+    color: #6071d7;
+    font-weight: 700;
+}
+
+.img {
+    margin: 10% 0 10% 20%;
+}
+
+.img img {
+    border-radius: 20px;
+    border: 5px solid black;
+}
+
+.text h4 {
+    font-size: 2.5em;
+}
+
+.event.e1 {
+    background-color: white;
+}
+
+.event.e2 {
+    background-color: #c1cdf9;
+}
+
+.event.e3 {
+    background-color: #bcb6f6;
+}
+
+.e1 .text, .e3 .text {
+    margin-left: 20%;
+}
+
+.e2 .text, .e4 .text {
+    margin-right: 20%;
+}
+ 
+
+.event.e4 {
+    background-color: #b69ff2;
+    max-height: 500px;
+}
+
+@media only screen and (max-width: 1200px) {
+    .event {
+        grid-template-columns: 1fr;
+    }
+    .text {
+        margin: 10%;
+        text-align: center;
+    }
+
+    .waveImg {
+        display: none;
+    }
+}
